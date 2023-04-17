@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-- 🌱 I’m currently working on a personal pjt... [CrySeller PJT](https://github.com/tmddnrdl333/CrySeller)
+- 🌱 SSAFY 7기 Java전공 (2022.01 - 2022.12)
 - 📫 How to reach me: tmddnrdl333@naver.com
 
 ### 👊Skills
