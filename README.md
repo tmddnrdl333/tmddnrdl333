@@ -1,10 +1,10 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmddnrdl333%2Fhit-counter&count_bg=%23EEE835&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## Hi there 👋
+I'm a backend developer interested in building scalable systems and data-driven services.
 
-- 🌱 SSAFY 7기 Java전공 (2022.01 - 2022.12)
-- 🔭 MIDAS (2023.05 - now)
-- 📫 How to reach me: tmddnrdl333@naver.com
+- 🌱 Hanyang University B.S. in Mechanical Engineering (Mar 2016 - Feb 2022)
+- 🎯 Samsung Software Academy For Youth (SSAFY 7th, Jan 2022 - Dec 2022)
+- 🔭 Backend Engineer @ MIDAS IT (May 2023 - Present)
+- 📫 How to reach me: tmddnrdl333@hanyang.ac.kr
 
 <!--
 ### 👊Skills
