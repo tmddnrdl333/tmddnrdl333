@@ -1,10 +1,15 @@
 ## Hi there 👋
 I'm a backend developer interested in building scalable systems and data-driven services.
 
-- 🌱 Hanyang University B.S. in Mechanical Engineering (Mar 2016 - Feb 2022)
-- 🎯 Samsung Software Academy For Youth (SSAFY 7th, Jan 2022 - Dec 2022)
+- 🌱 [Hanyang University](https://engr.hanyang.ac.kr/eng/) — B.S. in Mechanical Engineering (Mar 2016 - Feb 2022)
+- 🎯 [Samsung Software Academy For Youth (SSAFY)](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth) — 7th (Jan 2022 - Dec 2022)
 - 🔭 Backend Engineer @ MIDAS IT (May 2023 - Present)
+- 🗂️ Portfolio: [Life Commit Log: Seungwook](https://rift-jewel-680.notion.site/Life-Commit-Log-Seungwook-2b3feb902aff802aa2b1f9f28ae579cd?source=copy_link)
 - 📫 How to reach me: tmddnrdl333@hanyang.ac.kr
+
+### Motto
+> What does not kill me makes me stronger.  
+> — Friedrich Nietzsche
 
 <!--
 ### 👊Skills
