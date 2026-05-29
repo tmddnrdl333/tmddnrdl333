@@ -3,9 +3,10 @@ I'm a backend developer interested in building scalable systems and data-driven 
 
 - 🌱 [Hanyang University](https://engr.hanyang.ac.kr/eng/) — B.S. in Mechanical Engineering (Mar 2016 - Feb 2022)
 - 🎯 [Samsung Software Academy For Youth (SSAFY)](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth) — 7th (Jan 2022 - Dec 2022)
-- 🔭 Backend Engineer @ MIDAS IT (May 2023 - Present)
+- 🔭 Backend Engineer @ MIDAS IT (May 2023 - Jun 2026)
+- 🌿 [North Carolina State University](https://www.ncsu.edu/) - Master of Computer Science (Aug 2026 - ...)
 - 🗂️ Portfolio: [Life Commit Log: Seungwook](https://rift-jewel-680.notion.site/Life-Commit-Log-Seungwook-2b3feb902aff802aa2b1f9f28ae579cd?source=copy_link)
-- 📫 How to reach me: tmddnrdl333@hanyang.ac.kr
+- 📫 How to reach me: sjung27@ncsu.edu
 
 ### Motto
 > What does not kill me makes me stronger.  
